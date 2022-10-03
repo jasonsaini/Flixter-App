@@ -30,9 +30,7 @@ data class Movie(
                     )
                 )
             }
-            return movies;
+            return movies
         }
     }
-
-    }
-}
+   }
